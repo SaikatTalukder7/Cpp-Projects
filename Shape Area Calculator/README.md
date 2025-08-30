@@ -27,6 +27,7 @@ A simple C++ program to calculate the areas of different shapes including Circle
 
 ## Demo
 circle:
+
 https://github.com/user-attachments/assets/5156ac49-1605-4d81-80a0-07a2f034afb3
 
 
