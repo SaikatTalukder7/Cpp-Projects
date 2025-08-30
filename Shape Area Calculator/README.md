@@ -27,7 +27,8 @@ A simple C++ program to calculate the areas of different shapes including Circle
 
 ## Demo
 
-![Shape Area Calculator Demo](demo.gif)
+![GIF-250830_152343](https://github.com/user-attachments/assets/39d479bb-b979-4209-baef-53cfcb97403b)
+
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
