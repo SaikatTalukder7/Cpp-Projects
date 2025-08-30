@@ -25,8 +25,6 @@ A simple C++ program to calculate the areas of different shapes including Circle
      - Open `main.cpp` in a C++ IDE like Code::Blocks or VS Code  
      - Click **Run** to start the program
 
-> ✅ No need to type any commands. Just open the project in a C++ IDE and run it.
-
 ## Demo
 
 ![Shape Area Calculator Demo](demo.gif)
