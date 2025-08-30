@@ -1,4 +1,3 @@
-
 # Shape Area Calculator
 
 A simple C++ program to calculate the areas of different shapes including Circle, Square, and Rectangle. The program is menu-driven and easy to use.
@@ -7,22 +6,26 @@ A simple C++ program to calculate the areas of different shapes including Circle
 - Calculates area of Circle, Square, and Rectangle.
 - Menu-driven interface for easy selection.
 - Displays the calculated area instantly.
+- Beginner-friendly: can be run without typing commands.
 
 ## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/SaikatTalukder7/Cpp-Projects.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd Cpp-Projects/Shape\ Area\ Calculator
-   ```
-3. Compile and run the program:
-   ```bash
-   g++ main.cpp -o ShapeAreaCalculator
-   ./ShapeAreaCalculator   # Linux/Mac
-   ShapeAreaCalculator.exe # Windows
-   ```
+
+1. **Download the project**  
+   - Go to this repository and click **Code → Download ZIP**  
+   - Unzip the folder anywhere on your computer.
+
+2. **Open the folder**  
+   - Go inside the folder named `Shape Area Calculator`.
+
+3. **Run the program**  
+   - **Windows users:**  
+     - Open `main.cpp` in a C++ IDE like Code::Blocks, Dev C++, or Visual Studio  
+     - Click **Run** to start the program  
+   - **Linux / Mac users:**  
+     - Open `main.cpp` in a C++ IDE like Code::Blocks or VS Code  
+     - Click **Run** to start the program
+
+> ✅ No need to type any commands. Just open the project in a C++ IDE and run it.
 
 ## Demo
 
