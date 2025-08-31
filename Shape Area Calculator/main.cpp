@@ -29,6 +29,18 @@ void Rectangle()
     cout << "Rectangle Area: " << area << endl;
 }
 
+// Added Triangle function
+void Triangle()
+{
+    double b, h;
+    cout << "Enter the base of the Triangle: ";
+    cin >> b;
+    cout << "Enter the height of the Triangle: ";
+    cin >> h;
+    double area = 0.5 * b * h;
+    cout << "Triangle Area: " << area << endl;
+}
+
 int main()
 {
     int choice;
@@ -37,6 +49,7 @@ int main()
     cout << "1. Circle\n";
     cout << "2. Square\n";
     cout << "3. Rectangle\n";
+    cout << "4. Triangle\n"; 
 
     cout << "Enter choice:";
     cin >> choice;
@@ -50,6 +63,9 @@ int main()
         break;
     case 3:
         Rectangle();
+        break;
+    case 4:
+        Triangle();
         break;
     default:
         cout << "Invalid choice!";
