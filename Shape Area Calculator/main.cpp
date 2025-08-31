@@ -28,8 +28,6 @@ void Rectangle()
     double area = w * l;
     cout << "Rectangle Area: " << area << endl;
 }
-
-// Added Triangle function
 void Triangle()
 {
     double b, h;
@@ -72,3 +70,4 @@ int main()
     }
     return 0;
 }
+
