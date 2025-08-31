@@ -38,6 +38,10 @@ Rectangle:
 
 https://github.com/user-attachments/assets/aeed573c-5518-4ed1-b20f-db50b74bf7e8
 
+Triangle:
+
+https://github.com/user-attachments/assets/31abfb6e-1101-4f4e-b188-dbc7b268ae4b
+
 Invalid:
 
 https://github.com/user-attachments/assets/0edbe820-5eb6-4fb9-89cd-b99096b3701c
